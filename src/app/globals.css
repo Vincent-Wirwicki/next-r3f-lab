@@ -24,4 +24,8 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  main {
+    @apply w-screen h-screen
+  }
 }
